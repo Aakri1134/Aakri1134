@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a sophomore at Indian Institute of Information Technology Ranchi. I love development and have been working on apps<br>and websites for over an year. I also have an interest in Competitive Programming.<br><br>🔭 I’m currently working on a Self Attendance App Project<br>🌱 I’m currently learning Next.js<br>💬 Ask me about MERN Stack, JavaScript, C++<br>⚡ I would like to explore Cybersecurity and Machine Learning
+I'm a sophomore at Indian Institute of Information Technology Ranchi. I love development and have been working on apps<br>and websites for over an year. I also have an interest in Competitive Programming.<br><br>🔭 I’m currently working on web-builder Project<br>🌱 I’m currently learning Next.js<br>💬 Ask me about MERN Stack, JavaScript, C++<br>⚡ I would like to explore Cybersecurity and Machine Learning
 
 
 ## 🌐 Socials:
