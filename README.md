@@ -1,6 +1,5 @@
 # 💫 About Me:
-I'm a sophomore at Indian Institute of Information Technology Ranchi. I love development and have been working on apps<br>and websites for over an year. I also have an interest in Competitive Programming.<br><br>🔭 I’m currently working on web-builder Project<br>🌱 I’m currently learning Next.js<br>💬 Ask me about MERN Stack, JavaScript, C++<br>⚡ I would like to explore Cybersecurity and Machine Learning
-
+I'm a 3rd year CSE student at Indian Institute of Information Technology Ranchi, 2023 - 27. I love development and have been working on apps<br>and websites for over an year. I also have an interest in Competitive Programming.<br><br>🔭 I’m currently working on web-builder Project<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aakri_sri) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aakrisht-srivastava-017aa828b) 
